@@ -24,4 +24,5 @@ In your pull request description, you should include:
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | Varun Desai    |            3.58 | https://api.wandb.ai/links/vdesai10/ekdr2kg7| |                   |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
+| Arya Bakhtiar |            3.8289 | [Wandb](https://wandb.ai/bakhtiarmarya-stanford-university/assignment4/runs/vvabidb0/workspace?nw=nwuserbakhtiarmarya)
 | naive baseline |            4.00 |      |                          Verified |
